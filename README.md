@@ -19,7 +19,7 @@ Week 2 - Queues, Stacks and Bags
 Week 3 - Collinear Points
 -------------------------
  - **Point.java** - A simple point class.
- - **Brute.java** - A n^4 alg for calculating 4 collinear points.
+ - **Brute.java** - A n^4 algorithm for calculating 4 collinear points.
  - **Fast.java** - A fast implementation for finding collinear points.
 
 Week 4 - 8 Puzzle
@@ -29,5 +29,5 @@ Week 4 - 8 Puzzle
 
 Week 5 - KdTree
 ---------------
- - **PointSET.java** - A set of points on a 2D Euclidian plane, some simple function like nearest and contains.
- - **kDTree.java** - Uses a 2d tree to more efficiently perform functions such as nearest and contains.
+ - **PointSET.java** - A set of points on a 2D Euclidian plane, some simple function like nearest neighbor search and range search using a brute force approach.
+ - **KdTree.java** - Uses a 2d tree to more efficiently perform functions such as nearest neighbor search and range search.
